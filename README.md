@@ -1,1 +1,1 @@
-# odin-recipes
+This project named odin-recipes involves building a basic recipe website. It requires the use of knowledge around HTML and CSS. By the end of the project the website will consist of 4 webpages, 3 of which are recipes and one main homepage. It will require the use HTML content elements including navigation links, images, paragraph text, and headings. The project will also contain some CSS in order to make it look more realistic, and in order to do this class attributes will be used in the HTML files.
